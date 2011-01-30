@@ -1,6 +1,7 @@
 IdbentleySite::Application.routes.draw do
   resources :experiments
 
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
@@ -54,7 +55,6 @@ IdbentleySite::Application.routes.draw do
 
   # See how all your routes lay out with "rake routes"
  
-  Jammit::Routes.draw(map) 
 
   # This is a legacy wild controller route that's not recommended for RESTful applications.
   # Note: This route will make all actions in every controller accessible via GET requests.
