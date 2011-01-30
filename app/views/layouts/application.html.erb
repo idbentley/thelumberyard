@@ -24,7 +24,7 @@
 
 
 	<!-- Custom CSS -->
-	<%= include_stylesheets :common, :workspace, :media => 'all' %>
+	<%= include_stylesheets :common, :media => 'all' %>
 
   <!--<link rel="stylesheet" href="css/idbentley.css">-->
 
@@ -42,11 +42,10 @@
   <header>
 		<div id="ribbon">
 				<img src="images/logo.png">
-				<h1>idbentley</h1>
 			</div>
 		</div>
   </header>
-	<div class="side-bar">
+	<div id="side-bar">
 		<!-- <img src="images/wallpaper.jpg">-->
 		<ul>
 			<li>Blog</li>
@@ -54,7 +53,7 @@
 			<li>Resume</li>
 		</ui>
 	</div>
-	<div class="main-box">
+	<div id="main-box">
 		<%= yield %>
 	</div>
     <footer>

@@ -166,82 +166,34 @@ button {  width: auto; overflow: visible; }
 
 
 html {
+  height: 100%;
 }
 
 body {
 	background: #525955;
+  height: 100%;
 	width: 100%;
 	background-image: url('../images/wallpaper.jpg');
 	background-repeat: repeat;
 }
 
 
-#ribbon-spacer{
-	float: right;
-	margin-right: 40px;
-	width: 200px;
-	background: #B72727;
-	height: 30px;
-	border-left: 1px solid #444;
-	border-right: 1px solid #444;
-}
 #ribbon{
 	width: 100%;
-	border-top: 1px solid #444;
 	border-bottom: 1px solid #444;
-	clear: right;
-	height: 200px;
-	/*background-image: url('../images/wallpaper.jpg');
-	background-repeat: repeat;*/
 }
-#ribbon-content{
-	min-width: 800px;
-}
-#ribbon-spacer-right{
-	float: right;
-	width: 40px;
+
+#main-box{
+  margin-left: 200px;
 	min-height: 100%;
 	background: #fff;
 }
-#ribbon-square{
-	float: right;
-	width: 200px;
+
+#side-bar{
+	float: left;
+  width: 200px;
 	min-height: 100%;
-	border-left: 1px solid #444;
-	border-right: 1px solid #444;
-	background-image: url('../images/tartan.png');
-}
-h1{
-	font-family: "Calluna Regular";
-	font-size: 80px;
-	font-style: bold;
-	line-height: 80px;
-	margin-left: 20px;
-	margin-top: 10px;
-	float: left;
-}
-
-.main-box{
-	float: left;
-	height: 500px;
-	padding: 20px;
-	margin-right: 20px;
-	margin-top: 20px;
-	background: #BFBDAB;
-	width: 75%;
-	border-top: 1px solid #444;
-	border-right: 1px solid #444;
-}
-
-.side-bar{
-	float: right;
-	width: 200px;
-	height: 400px;
-	margin-right: 40px;
-	border-left: 1px solid #444;
-	border-right: 1px solid #444;
-	border-bottom: 1px solid #444;
-	background: #B72727;
+	border-right: solid 1px #444;
 }
 
 /*
