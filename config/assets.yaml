@@ -1,9 +1,0 @@
-embed_assets: on
-
-javascripts:
-	workspace:
-		- public/javascripts/*.js
-
-stylesheets:
-	common:
-		- public/stylesheets/compiled/*.css

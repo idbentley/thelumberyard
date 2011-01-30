@@ -23,11 +23,9 @@
   <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 
 
-  <!-- CSS : implied media="all" -->
-  <link rel="stylesheet" href="css/style.css?v=2">
-
 	<!-- Custom CSS -->
-  <link rel="stylesheet" href="css/fonts.css">
+	<%= include_stylesheets :common, :workspace, :media => 'all' %>
+
   <!--<link rel="stylesheet" href="css/idbentley.css">-->
 
   
@@ -78,10 +76,7 @@
   
   
   <!-- my scripts (should minify)-->
-  <script src="javascripts/script.js"></script>
-  <script src="javascripts/boxshadow.js"></script>
-  <script src="javascripts/gradients.js"></script>
-  <script src="javascripts/radius.js"></script>  
+	<%= include_javascripts :workspace %>
   <!-- end-->
   
   <!--[if lt IE 7 ]>
