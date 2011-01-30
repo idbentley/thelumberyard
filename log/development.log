@@ -1,0 +1,120 @@
+
+
+Started GET "/css/style.css?v=2" for 127.0.0.1 at 2011-01-29 19:45:26 -0500
+
+ActionController::RoutingError (No route matches "/css/style.css"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.2ms)
+
+
+Started GET "/css/fonts.css" for 127.0.0.1 at 2011-01-29 19:45:26 -0500
+
+ActionController::RoutingError (No route matches "/css/fonts.css"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.2ms)
+
+
+Started GET "/js/libs/modernizr-1.6.min.js" for 127.0.0.1 at 2011-01-29 19:45:26 -0500
+
+ActionController::RoutingError (No route matches "/js/libs/modernizr-1.6.min.js"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.1ms)
+
+
+Started GET "/js/script.js" for 127.0.0.1 at 2011-01-29 19:45:26 -0500
+
+ActionController::RoutingError (No route matches "/js/script.js"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.3ms)
+
+
+Started GET "/js/plugins.js" for 127.0.0.1 at 2011-01-29 19:45:26 -0500
+
+ActionController::RoutingError (No route matches "/js/plugins.js"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.1ms)
+
+
+Started GET "/js/mylibs/script.js" for 127.0.0.1 at 2011-01-29 19:45:26 -0500
+
+ActionController::RoutingError (No route matches "/js/mylibs/script.js"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.1ms)
+
+
+Started GET "/js/mylibs/boxshadow.js" for 127.0.0.1 at 2011-01-29 19:45:26 -0500
+
+ActionController::RoutingError (No route matches "/js/mylibs/boxshadow.js"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.2ms)
+
+
+Started GET "/js/mylibs/gradients.js" for 127.0.0.1 at 2011-01-29 19:45:26 -0500
+
+ActionController::RoutingError (No route matches "/js/mylibs/gradients.js"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.1ms)
+
+
+Started GET "/js/mylibs/radius.js" for 127.0.0.1 at 2011-01-29 19:45:26 -0500
+
+ActionController::RoutingError (No route matches "/js/mylibs/radius.js"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.2ms)
+
+
+Started GET "/js/plugins.js" for 127.0.0.1 at 2011-01-29 19:45:26 -0500
+
+ActionController::RoutingError (No route matches "/js/plugins.js"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/js/script.js" for 127.0.0.1 at 2011-01-29 19:45:26 -0500
+
+ActionController::RoutingError (No route matches "/js/script.js"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.3ms)
+
+
+Started GET "/js/mylibs/script.js" for 127.0.0.1 at 2011-01-29 19:45:26 -0500
+
+ActionController::RoutingError (No route matches "/js/mylibs/script.js"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.2ms)
+
+
+Started GET "/js/mylibs/boxshadow.js" for 127.0.0.1 at 2011-01-29 19:45:26 -0500
+
+ActionController::RoutingError (No route matches "/js/mylibs/boxshadow.js"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.1ms)
+
+
+Started GET "/js/mylibs/gradients.js" for 127.0.0.1 at 2011-01-29 19:45:26 -0500
+
+ActionController::RoutingError (No route matches "/js/mylibs/gradients.js"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/js/mylibs/radius.js" for 127.0.0.1 at 2011-01-29 19:45:27 -0500
+
+ActionController::RoutingError (No route matches "/js/mylibs/radius.js"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.2ms)
