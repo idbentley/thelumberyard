@@ -163,39 +163,70 @@ button {  width: auto; overflow: visible; }
  /* Primary Styles
     Author:
  */
+ 
+$nav-width: 250px;
 
+$text: #444;
+
+$borders: #444;
+
+$selected: #708C8A;
+
+$nav-color: #BFBDAB;
 
 html {
   height: 100%;
 }
 
 body {
-	background: #525955;
   height: 100%;
-	width: 100%;
+  width: 100%;
 }
 
 header {
-	width: 100%;
-	border-bottom: 1px solid #444;
+  width: 100%;
+  border-bottom: 1px solid $borders;
 }
 
 #main-box{
-  margin-left: 200px;
-	min-height: 100%;
-	background: #fff;
+  font-size: 14px;
+  margin-left: $nav-width;
+  background: #fff;
+  h3{
+    font-size: 20px;
+  }
+}
+
+@mixin drop_shadow($inset: null, $horizontal: 4px, $vertical: 4px, $blur: 4px, $color: #444){
+    -moz-box-shadow: $inset $horizontal $vertical $blur $color; /* FF3.5+ */
+    -webkit-box-shadow: $inset $horizontal $vertical $blur $color; /* Saf3.0+, Chrome */
+    box-shadow: $inset $horizontal $vertical $blur $color;
 }
 
 #side-bar{
-	float: left;
-  width: 200px;
-	min-height: 100%;
-	border-right: solid 1px #444;
+  float: left;
+  width: $nav-width;
+  border-right: solid 1px $borders;
+  min-height: 100%;
+  ul{
+    margin-left: 0;
+    width: 100%;
+    list-style-type: none;
+  }
+  li{
+    padding-left: 20px;
+    padding-top: 20px;
+    height: 40px;
+    border-bottom: solid 1px $borders;
+    background-color: $nav-color;
+    @include drop_shadow(inset, 0px, 4px, 10px);
+  }
+  li.selected{
+    background-color: $selected;
+  }
+
 }
 
-ul{
-  
-}
 /*
 #1F2625
 #525955

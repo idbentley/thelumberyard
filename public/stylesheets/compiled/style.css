@@ -234,24 +234,42 @@ html {
   height: 100%; }
 
 body {
-  background: #525955;
   height: 100%;
   width: 100%; }
 
 header {
   width: 100%;
-  border-bottom: 1px solid #444; }
+  border-bottom: 1px solid #444444; }
 
 #main-box {
-  margin-left: 200px;
-  min-height: 100%;
+  font-size: 14px;
+  margin-left: 250px;
   background: #fff; }
+  #main-box h3 {
+    font-size: 20px; }
 
 #side-bar {
   float: left;
-  width: 200px;
-  min-height: 100%;
-  border-right: solid 1px #444; }
+  width: 250px;
+  border-right: solid 1px #444444;
+  min-height: 100%; }
+  #side-bar ul {
+    margin-left: 0;
+    width: 100%;
+    list-style-type: none; }
+  #side-bar li {
+    padding-left: 20px;
+    padding-top: 20px;
+    height: 40px;
+    border-bottom: solid 1px #444444;
+    background-color: #bfbdab;
+    -moz-box-shadow: inset 0px 4px 10px #444444;
+    /* FF3.5+ */
+    -webkit-box-shadow: inset 0px 4px 10px #444444;
+    /* Saf3.0+, Chrome */
+    box-shadow: inset 0px 4px 10px #444444; }
+  #side-bar li.selected {
+    background-color: #708c8a; }
 
 /*
 #1F2625

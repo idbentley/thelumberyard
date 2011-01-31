@@ -1,0 +1,5 @@
+@mixin drop_shadow($color: #444,	$values: 10px){
+  box-shadow: #{$color} #{$values};
+  -webkit-box-shadow: #{$color} #{$values};
+  -moz-box-shadow: #{$color} #{$values};
+}
