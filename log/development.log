@@ -5081,3 +5081,100 @@ ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/pt
   
 
 Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-30 18:42:26 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html within layouts/application (3.9ms)
+Completed 200 OK in 9ms (Views: 7.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/js/libs/modernizr-1.6.min.js" for 127.0.0.1 at 2011-01-30 18:42:26 -0500
+
+ActionController::RoutingError (No route matches "/js/libs/modernizr-1.6.min.js"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (38.7ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSans.woff" for 127.0.0.1 at 2011-01-30 18:42:26 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSans.woff"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.5ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSansBold.woff" for 127.0.0.1 at 2011-01-30 18:42:26 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSansBold.woff"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.2ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSansBold.ttf" for 127.0.0.1 at 2011-01-30 18:42:26 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSansBold.ttf"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.2ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSans.ttf" for 127.0.0.1 at 2011-01-30 18:42:26 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSans.ttf"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.6ms)
+DEPRECATION WARNING: RAILS_ENV is deprecated. Please use ::Rails.env. (called from block in <class:Plugin> at /home/bentley/development/idbentley-site/vendor/plugins/sass_on_heroku/init.rb:1)
+DEPRECATION WARNING: RAILS_ENV is deprecated. Please use ::Rails.env. (called from block in <class:Plugin> at /home/bentley/development/idbentley-site/vendor/plugins/sass_on_heroku/init.rb:1)
+DEPRECATION WARNING: RAILS_ENV is deprecated. Please use ::Rails.env. (called from block in <class:Plugin> at /home/bentley/development/idbentley-site/vendor/plugins/hassle/init.rb:1)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-30 19:13:59 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html within layouts/application (4.1ms)
+Completed 200 OK in 10ms (Views: 9.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/js/libs/modernizr-1.6.min.js" for 127.0.0.1 at 2011-01-30 19:14:00 -0500
+
+ActionController::RoutingError (No route matches "/js/libs/modernizr-1.6.min.js"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.3ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSans.woff" for 127.0.0.1 at 2011-01-30 19:14:00 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSans.woff"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.2ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSansBold.woff" for 127.0.0.1 at 2011-01-30 19:14:00 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSansBold.woff"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.4ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSans.ttf" for 127.0.0.1 at 2011-01-30 19:14:00 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSans.ttf"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.3ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSansBold.ttf" for 127.0.0.1 at 2011-01-30 19:14:00 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSansBold.ttf"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.3ms)
+DEPRECATION WARNING: RAILS_ENV is deprecated. Please use ::Rails.env. (called from block in <class:Plugin> at /home/bentley/development/idbentley-site/vendor/plugins/hassle/init.rb:1)
+DEPRECATION WARNING: RAILS_ENV is deprecated. Please use ::Rails.env. (called from block in <class:Plugin> at /home/bentley/development/idbentley-site/vendor/plugins/hassle/init.rb:1)
