@@ -44,3 +44,495 @@ ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/pt
   
 
 Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-30 21:25:02 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html within layouts/application (12.8ms)
+Completed 200 OK in 18ms (Views: 17.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/stylesheets/images/wallpaper.jpg" for 127.0.0.1 at 2011-01-30 21:25:03 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/images/wallpaper.jpg"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (5.1ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSans.woff" for 127.0.0.1 at 2011-01-30 21:25:03 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSans.woff"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.5ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSansBold.woff" for 127.0.0.1 at 2011-01-30 21:25:03 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSansBold.woff"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.3ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSans.ttf" for 127.0.0.1 at 2011-01-30 21:25:03 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSans.ttf"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.3ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSansBold.ttf" for 127.0.0.1 at 2011-01-30 21:25:03 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSansBold.ttf"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-30 21:25:32 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html within layouts/application (1.1ms)
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/stylesheets/images/wallpaper.jpg" for 127.0.0.1 at 2011-01-30 21:25:33 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/images/wallpaper.jpg"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.2ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSans.woff" for 127.0.0.1 at 2011-01-30 21:25:33 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSans.woff"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.3ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSansBold.woff" for 127.0.0.1 at 2011-01-30 21:25:33 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSansBold.woff"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.4ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSans.ttf" for 127.0.0.1 at 2011-01-30 21:25:33 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSans.ttf"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.3ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSansBold.ttf" for 127.0.0.1 at 2011-01-30 21:25:33 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSansBold.ttf"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.2ms)
+
+
+Started GET "/fonts" for 127.0.0.1 at 2011-01-30 21:26:49 -0500
+
+ActionController::RoutingError (No route matches "/fonts"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.4ms)
+
+
+Started GET "/fonts/" for 127.0.0.1 at 2011-01-30 21:26:53 -0500
+
+ActionController::RoutingError (No route matches "/fonts"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.4ms)
+
+
+Started GET "/fonts/" for 127.0.0.1 at 2011-01-30 21:37:21 -0500
+
+ActionController::RoutingError (No route matches "/fonts"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-30 21:37:26 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html within layouts/application (1.0ms)
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/stylesheets/images/wallpaper.jpg" for 127.0.0.1 at 2011-01-30 21:37:26 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/images/wallpaper.jpg"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.3ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSans.woff" for 127.0.0.1 at 2011-01-30 21:37:26 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSans.woff"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.6ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSansBold.woff" for 127.0.0.1 at 2011-01-30 21:37:26 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSansBold.woff"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.4ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSans.ttf" for 127.0.0.1 at 2011-01-30 21:37:26 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSans.ttf"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.1ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSansBold.ttf" for 127.0.0.1 at 2011-01-30 21:37:26 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSansBold.ttf"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-30 21:37:43 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html within layouts/application (1.2ms)
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/stylesheets/images/wallpaper.jpg" for 127.0.0.1 at 2011-01-30 21:37:43 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/images/wallpaper.jpg"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.2ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSans.woff" for 127.0.0.1 at 2011-01-30 21:37:43 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSans.woff"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.1ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSansBold.woff" for 127.0.0.1 at 2011-01-30 21:37:43 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSansBold.woff"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.9ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSans.ttf" for 127.0.0.1 at 2011-01-30 21:37:43 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSans.ttf"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.2ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSansBold.ttf" for 127.0.0.1 at 2011-01-30 21:37:43 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSansBold.ttf"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-30 21:42:40 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html within layouts/application (11.4ms)
+Completed 200 OK in 16ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/stylesheets/images/wallpaper.jpg" for 127.0.0.1 at 2011-01-30 21:42:41 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/images/wallpaper.jpg"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.4ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSans.woff" for 127.0.0.1 at 2011-01-30 21:42:41 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSans.woff"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.4ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSansBold.woff" for 127.0.0.1 at 2011-01-30 21:42:41 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSansBold.woff"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.2ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSans.ttf" for 127.0.0.1 at 2011-01-30 21:42:41 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSans.ttf"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.0ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSansBold.ttf" for 127.0.0.1 at 2011-01-30 21:42:41 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSansBold.ttf"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-30 21:43:27 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html within layouts/application (1.1ms)
+Completed 200 OK in 2ms (Views: 1.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/stylesheets/images/wallpaper.jpg" for 127.0.0.1 at 2011-01-30 21:43:27 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/images/wallpaper.jpg"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.3ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSansBold.woff" for 127.0.0.1 at 2011-01-30 21:43:27 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSansBold.woff"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (5.7ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSans.woff" for 127.0.0.1 at 2011-01-30 21:43:27 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSans.woff"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.2ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSansBold.ttf" for 127.0.0.1 at 2011-01-30 21:43:27 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSansBold.ttf"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.5ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSans.ttf" for 127.0.0.1 at 2011-01-30 21:43:27 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSans.ttf"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-30 21:43:35 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html within layouts/application (1.4ms)
+Completed 200 OK in 2ms (Views: 2.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/stylesheets/images/wallpaper.jpg" for 127.0.0.1 at 2011-01-30 21:43:35 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/images/wallpaper.jpg"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.3ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSans.woff" for 127.0.0.1 at 2011-01-30 21:43:35 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSans.woff"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (3.9ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSansBold.woff" for 127.0.0.1 at 2011-01-30 21:43:35 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSansBold.woff"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.4ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSans.ttf" for 127.0.0.1 at 2011-01-30 21:43:35 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSans.ttf"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.5ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSansBold.ttf" for 127.0.0.1 at 2011-01-30 21:43:35 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSansBold.ttf"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-30 21:44:07 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html within layouts/application (1.0ms)
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/stylesheets/images/wallpaper.jpg" for 127.0.0.1 at 2011-01-30 21:44:07 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/images/wallpaper.jpg"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.3ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSansBold.woff" for 127.0.0.1 at 2011-01-30 21:44:07 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSansBold.woff"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.2ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSans.woff" for 127.0.0.1 at 2011-01-30 21:44:07 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSans.woff"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.1ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSansBold.ttf" for 127.0.0.1 at 2011-01-30 21:44:07 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSansBold.ttf"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.3ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSans.ttf" for 127.0.0.1 at 2011-01-30 21:44:07 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSans.ttf"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-30 21:44:25 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html within layouts/application (1.0ms)
+Completed 200 OK in 2ms (Views: 2.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/stylesheets/images/wallpaper.jpg" for 127.0.0.1 at 2011-01-30 21:44:25 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/images/wallpaper.jpg"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.2ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSans.woff" for 127.0.0.1 at 2011-01-30 21:44:25 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSans.woff"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.2ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSansBold.woff" for 127.0.0.1 at 2011-01-30 21:44:25 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSansBold.woff"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.3ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSans.ttf" for 127.0.0.1 at 2011-01-30 21:44:25 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSans.ttf"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (42.5ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSansBold.ttf" for 127.0.0.1 at 2011-01-30 21:44:25 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSansBold.ttf"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.4ms)
+
+
+Started GET "/fonts" for 127.0.0.1 at 2011-01-30 21:52:38 -0500
+
+ActionController::RoutingError (No route matches "/fonts"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-30 21:52:42 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html within layouts/application (11.7ms)
+Completed 200 OK in 16ms (Views: 15.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/stylesheets/images/wallpaper.jpg" for 127.0.0.1 at 2011-01-30 21:52:42 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/images/wallpaper.jpg"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.2ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSans.woff" for 127.0.0.1 at 2011-01-30 21:52:42 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSans.woff"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.3ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSansBold.woff" for 127.0.0.1 at 2011-01-30 21:52:42 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSansBold.woff"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.3ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSans.ttf" for 127.0.0.1 at 2011-01-30 21:52:42 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSans.ttf"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.3ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSansBold.ttf" for 127.0.0.1 at 2011-01-30 21:52:42 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSansBold.ttf"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.2ms)

@@ -11,8 +11,7 @@ gem 'jammit'
 
 gem 'haml'
 
-gem "compass", ">= 0.10.6"
-#gem 'hassle'
+gem 'hassle', :git => 'git://github.com/koppen/hassle.git'
 
 # Use unicorn as the web server
 # gem 'unicorn'

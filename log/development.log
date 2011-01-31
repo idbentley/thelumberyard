@@ -6191,3 +6191,4 @@ Started GET "/" for 127.0.0.1 at 2011-01-30 20:38:58 -0500
 Rendered welcome/index.html within layouts/application (48.2ms)
 Completed 200 OK in 53ms (Views: 52.4ms | ActiveRecord: 0.0ms)
 DEPRECATION WARNING: RAILS_ENV is deprecated. Please use ::Rails.env. (called from block in <class:Plugin> at /home/bentley/development/idbentley-site/vendor/plugins/hassle/init.rb:1)
+DEPRECATION WARNING: RAILS_ENV is deprecated. Please use ::Rails.env. (called from block in <class:Plugin> at /home/bentley/development/idbentley-site/vendor/plugins/hassle/init.rb:1)
