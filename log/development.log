@@ -5178,3 +5178,1016 @@ ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/pt
 Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.3ms)
 DEPRECATION WARNING: RAILS_ENV is deprecated. Please use ::Rails.env. (called from block in <class:Plugin> at /home/bentley/development/idbentley-site/vendor/plugins/hassle/init.rb:1)
 DEPRECATION WARNING: RAILS_ENV is deprecated. Please use ::Rails.env. (called from block in <class:Plugin> at /home/bentley/development/idbentley-site/vendor/plugins/hassle/init.rb:1)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-30 20:14:32 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html within layouts/application (2.0ms)
+Completed   in 7ms
+
+ActionView::Template::Error (Inconsistent indentation: 7 spaces were used for indentation, but the rest of the document was indented using 2 spaces.):
+    8:   %meta{ :charset => "utf-8"}
+    9: 
+    10:   <!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame 
+    11:        Remove this if you use the .htaccess -->
+    12:   %meta{ :http-equiv => "X-UA-Compatible", :content => "IE=edge,chrome=1"}
+    13: 
+    14:   %title idbentley's Lumberyard
+  app/views/layouts/application.html.haml:11
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.4ms)
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.9ms)
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (8.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-30 20:14:33 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html within layouts/application (1.8ms)
+Completed   in 7ms
+
+ActionView::Template::Error (Inconsistent indentation: 7 spaces were used for indentation, but the rest of the document was indented using 2 spaces.):
+    8:   %meta{ :charset => "utf-8"}
+    9: 
+    10:   <!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame 
+    11:        Remove this if you use the .htaccess -->
+    12:   %meta{ :http-equiv => "X-UA-Compatible", :content => "IE=edge,chrome=1"}
+    13: 
+    14:   %title idbentley's Lumberyard
+  app/views/layouts/application.html.haml:11
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.4ms)
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.7ms)
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (8.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-30 20:15:17 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html within layouts/application (2.1ms)
+Completed   in 7ms
+
+ActionView::Template::Error (Inconsistent indentation: 7 spaces were used for indentation, but the rest of the document was indented using 2 spaces.):
+    8:   %meta{ :charset => "utf-8"}
+    9: 
+    10:   <!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame 
+    11:        Remove this if you use the .htaccess -->
+    12:   %meta{ :http-equiv => "X-UA-Compatible", :content => "IE=edge,chrome=1"}
+    13: 
+    14:   %title idbentley's Lumberyard
+  app/views/layouts/application.html.haml:11
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.3ms)
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.7ms)
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (8.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-30 20:15:19 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html within layouts/application (1.7ms)
+Completed   in 7ms
+
+ActionView::Template::Error (Inconsistent indentation: 7 spaces were used for indentation, but the rest of the document was indented using 2 spaces.):
+    8:   %meta{ :charset => "utf-8"}
+    9: 
+    10:   <!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame 
+    11:        Remove this if you use the .htaccess -->
+    12:   %meta{ :http-equiv => "X-UA-Compatible", :content => "IE=edge,chrome=1"}
+    13: 
+    14:   %title idbentley's Lumberyard
+  app/views/layouts/application.html.haml:11
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.3ms)
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (3.0ms)
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (8.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-30 20:15:41 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html within layouts/application (1.7ms)
+Completed   in 7ms
+
+ActionView::Template::Error (Inconsistent indentation: 7 spaces were used for indentation, but the rest of the document was indented using 2 spaces.):
+    8:   %meta{ :charset => "utf-8"}
+    9: 
+    10:   <!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame 
+    11:        Remove this if you use the .htaccess -->
+    12:   %meta{ :http-equiv => "X-UA-Compatible", :content => "IE=edge,chrome=1"}
+    13: 
+    14:   %title idbentley's Lumberyard
+  app/views/layouts/application.html.haml:11
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.3ms)
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.7ms)
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (8.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-30 20:15:44 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html within layouts/application (1.7ms)
+Completed   in 7ms
+
+ActionView::Template::Error (Inconsistent indentation: 7 spaces were used for indentation, but the rest of the document was indented using 2 spaces.):
+    8:   %meta{ :charset => "utf-8"}
+    9: 
+    10:   <!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame 
+    11:        Remove this if you use the .htaccess -->
+    12:   %meta{ :http-equiv => "X-UA-Compatible", :content => "IE=edge,chrome=1"}
+    13: 
+    14:   %title idbentley's Lumberyard
+  app/views/layouts/application.html.haml:11
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.5ms)
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (3.0ms)
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (9.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-30 20:15:57 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html within layouts/application (1.7ms)
+Completed   in 7ms
+
+ActionView::Template::Error (Inconsistent indentation: 7 spaces were used for indentation, but the rest of the document was indented using 2 spaces.):
+    8:   %meta{ :charset => "utf-8"}
+    9: 
+    10:   <!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame 
+    11:        Remove this if you use the .htaccess -->
+    12:   %meta{ :http-equiv => "X-UA-Compatible", :content => "IE=edge,chrome=1"}
+    13: 
+    14:   %title idbentley's Lumberyard
+  app/views/layouts/application.html.haml:11
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.3ms)
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.7ms)
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (8.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-30 20:15:58 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html within layouts/application (1.7ms)
+Completed   in 7ms
+
+ActionView::Template::Error (Inconsistent indentation: 7 spaces were used for indentation, but the rest of the document was indented using 2 spaces.):
+    8:   %meta{ :charset => "utf-8"}
+    9: 
+    10:   <!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame 
+    11:        Remove this if you use the .htaccess -->
+    12:   %meta{ :http-equiv => "X-UA-Compatible", :content => "IE=edge,chrome=1"}
+    13: 
+    14:   %title idbentley's Lumberyard
+  app/views/layouts/application.html.haml:11
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.3ms)
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.7ms)
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (8.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-30 20:16:18 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html within layouts/application (4.0ms)
+Completed   in 9ms
+
+ActionView::Template::Error (Inconsistent indentation: 1 tab was used for indentation, but the rest of the document was indented using 2 spaces.):
+    22:   %link{ :rel => "shortcut icon", :href => "/favicon.ico"}
+    23:   %link{ :rel => "apple-touch-icon", :href => "/apple-touch-icon.png"}
+    24: 
+    25: 	<!-- Custom CSS -->
+    26: 	= include_stylesheets :common, :media => 'all'
+    27:  
+    28:   <!-- Uncomment if you are specifically targeting less enabled mobile browsers
+  app/views/layouts/application.html.haml:25
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.3ms)
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.7ms)
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (8.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-30 20:16:37 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html within layouts/application (4.9ms)
+Completed   in 10ms
+
+ActionView::Template::Error (Illegal nesting: content can't be both given on the same line as %body and nested within it.):
+    32:   %script{ :type => "text/javascript", :src => "js/libs/modernizr-1.6.min.js"}
+    33: 
+    34: %body{:lang => "en}"
+    35:   %header
+    36: 		%div#ribbon
+    37: 			%img{ :src => "images/logo.png"}
+    38: 	%div#side-bar
+  app/views/layouts/application.html.haml:35
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.3ms)
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.8ms)
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (8.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-30 20:16:52 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html within layouts/application (5.0ms)
+Completed   in 11ms
+
+ActionView::Template::Error (Inconsistent indentation: 2 tabs were used for indentation, but the rest of the document was indented using 2 spaces.):
+    33: 
+    34: %body{:lang => "en"}
+    35:   %header
+    36: 		%div#ribbon
+    37: 			%img{ :src => "images/logo.png"}
+    38: 	%div#side-bar
+    39: 		<!-- <img src="images/wallpaper.jpg">-->
+  app/views/layouts/application.html.haml:36
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.3ms)
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.7ms)
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (8.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-30 20:17:00 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html within layouts/application (5.0ms)
+Completed   in 10ms
+
+ActionView::Template::Error (Inconsistent indentation: 3 tabs were used for indentation, but the rest of the document was indented using 2 spaces.):
+    34: %body{:lang => "en"}
+    35:   %header
+    36:     %div#ribbon
+    37: 			%img{ :src => "images/logo.png"}
+    38: 	%div#side-bar
+    39: 		<!-- <img src="images/wallpaper.jpg">-->
+    40: 		%ul
+  app/views/layouts/application.html.haml:37
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.4ms)
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.7ms)
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (8.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-30 20:17:06 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html within layouts/application (5.6ms)
+Completed   in 11ms
+
+ActionView::Template::Error (Inconsistent indentation: 1 tab was used for indentation, but the rest of the document was indented using 2 spaces.):
+    35:   %header
+    36:     %div#ribbon
+    37:       %img{ :src => "images/logo.png"}
+    38: 	%div#side-bar
+    39: 		<!-- <img src="images/wallpaper.jpg">-->
+    40: 		%ul
+    41: 			%li Blog
+  app/views/layouts/application.html.haml:38
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.4ms)
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.9ms)
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (8.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-30 20:17:39 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html within layouts/application (8.9ms)
+Completed   in 18ms
+
+ActionView::Template::Error (Inconsistent indentation: 1 tab was used for indentation, but the rest of the document was indented using 2 spaces.):
+    59:   
+    60:   
+    61:   <!-- my scripts (should minify)-->
+    62: 	= include_javascripts :workspace
+    63:   <!-- end-->
+    64:   
+    65:   <!--[if lt IE 7 ]>
+  app/views/layouts/application.html.haml:62
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.3ms)
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.7ms)
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (8.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-30 20:17:44 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html within layouts/application (8.8ms)
+Completed   in 15ms
+
+ActionView::Template::Error (Illegal nesting: nesting within plain text is illegal.):
+    63:   <!-- end-->
+    64:   
+    65:   <!--[if lt IE 7 ]>
+    66:     %script{ :src => "js/libs/dd_belatedpng.js"}
+    67:     :javascript
+    68:       DD_belatedPNG.fix('img, .png_bg'); // Fix any <img> or .png_bg bg-images. Also, please read goo.gl/mZiyb 
+    69:   <![endif]-->
+  app/views/layouts/application.html.haml:66
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.5ms)
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (5.5ms)
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (11.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-30 20:17:59 -0500
+  Processing by WelcomeController#index as HTML
+ERROR: compiling _app_views_layouts_application_html_haml__3346694756368829297_15922920_2916295878088009320 RAISED /home/bentley/development/idbentley-site/app/views/layouts/application.html.haml:16: syntax error, unexpected ':', expecting ')'
+... nil, nil,  :name => "author" :content => "");_hamlout.push_...
+...                               ^
+Function body:           def _app_views_layouts_application_html_haml__3346694756368829297_15922920_2916295878088009320(local_assigns)
+            _old_virtual_path, @_virtual_path = @_virtual_path, "layouts/application";_old_output_buffer = @output_buffer;;begin;extend Haml::Helpers;_hamlout = @haml_buffer = Haml::Buffer.new(@haml_buffer, {:autoclose=>["meta", "img", "link", "br", "hr", "input", "area", "param", "col", "base"], :preserve=>["textarea", "pre", "code"], :attr_wrapper=>"'", :ugly=>false, :format=>:html5, :encoding=>"UTF-8", :escape_html=>true});_erbout = _hamlout.buffer;__in_erb_template = true;;_hamlout.push_text("<!DOCTYPE html>\n<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->\n<!--[if lt IE 7 ]> <html class=\"no-js ie6\"> <![endif]-->\n<!--[if IE 7 ]>    <html class=\"no-js ie7\"> <![endif]-->\n<!--[if IE 8 ]>    <html class=\"no-js ie8\"> <![endif]-->\n<!--[if (gte IE 9)|!(IE)]><!--> %html class=\"no-js\" <!--<![endif]-->\n<head>\n  <meta charset='utf-8'>\n  <!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame\n  Remove this if you use the .htaccess -->\n", 1, false);
+
+
+
+
+
+
+
+
+
+
+_hamlout.open_tag("meta", true, true, false, true, {}, false, false, nil, nil,  :http-equiv => "X-UA-Compatible", :content => "IE=edge,chrome=1");_hamlout.push_text("  <title>idbentley's Lumberyard</title>\n  <meta content='' name='description'>\n", 0, false);
+
+
+
+_hamlout.open_tag("meta", true, true, false, true, {}, false, false, nil, nil,  :name => "author" :content => "");_hamlout.push_text("  <!--  Mobile viewport optimized: j.mp/bplateviewport -->\n  <meta content='width=device-width, initial-scale =&gt; 1.0' name='viewport'>\n  <!-- Place favicon.ico & apple-touch-icon.png in the root of your domain and delete these references -->\n  <link href='/favicon.ico' rel='shortcut icon'>\n  <link href='/apple-touch-icon.png' rel='apple-touch-icon'>\n  <!-- Custom CSS -->\n  #{
+
+
+
+
+
+
+
+
+
+_hamlout.format_script_false_false_false_true_false_true_false(( include_stylesheets :common, :media => 'all'
+));}\n  <!-- Uncomment if you are specifically targeting less enabled mobile browsers\n  <link href='css/handheld.css?v=2' media='handheld' rel='stylesheet'>--></link>\n  <!-- All JavaScript at the bottom, except for Modernizr which enables HTML5 elements & feature detects -->\n  <script src='js/libs/modernizr-1.6.min.js' type='text/javascript'></script>\n</head>\n<body lang='en'>\n  <header>\n    <div id='ribbon'>\n      <img src='images/logo.png'>\n    </div>\n  </header>\n  <div id='side-bar'>\n    <!-- <img src=\"images/wallpaper.jpg\">-->\n    <ul>\n      <li>Blog</li>\n      <li>Projects</li>\n      <li>Resume</li>\n    </ul>\n  </div>\n  <div id='main-box'>\n    <%= yield %>\n  </div>\n  <!-- Javascript at the bottom for fast page loading -->\n  <!-- Grab Google CDN's jQuery. fall back to local if necessary -->\n  <script src='//ajax.googleapis.com/aajax/libs/jquery/1.4.4/jquery.js'></script>\n  <script type='text/javascript'>\n    //<![CDATA[\n      !window.jQuery && document.write(unescape('%3Cscript src=\"js/libs/jquery-1.4.4.js\"%3E%3C/script%3E'))\n    //]]>\n  </script>\n  <!-- scripts concatenated and minified via ant build script-->\n  <script src='javascripts/plugins.js'></script>\n  <script src='javascripts/script.js'></script>\n  <!-- end concatenated and minified scripts-->\n  <!-- my scripts (should minify)-->\n  #{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+_hamlout.format_script_false_false_false_true_false_true_false(( include_javascripts :workspace
+));}\n  <!-- end-->\n  <!--[if lt IE 7 ]>\n  <script src='js/libs/dd_belatedpng.js'></script>\n  <script type='text/javascript'>\n    //<![CDATA[\n      DD_belatedPNG.fix('img, .png_bg'); // Fix any <img> or .png_bg bg-images. Also, please read goo.gl/mZiyb\n    //]]>\n  </script>\n  <![endif]-->\n  <!-- mathiasbynens.be/notes/async-analytics-snippet Change UA-XXXXX-X to be your site's ID -->\n  <script type='text/javascript'>\n    //<![CDATA[\n      var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];\n      (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];g.async=1;\n      g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';\n      s.parentNode.insertBefore(g,s)}(document,'script'));\n    //]]>\n  </script>\n</body>\n", -1, false);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+::Haml::Util.html_safe(_erbout);ensure;@haml_buffer = @haml_buffer.upper;end;
+          ensure
+            @_virtual_path, @output_buffer = _old_virtual_path, _old_output_buffer
+          end
+Backtrace: /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_view/template.rb:255:in `module_eval'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_view/template.rb:255:in `compile'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_view/template.rb:134:in `block in render'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/activesupport-3.0.3/lib/active_support/notifications.rb:54:in `instrument'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_view/template.rb:127:in `render'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_view/render/layouts.rb:80:in `_render_layout'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_view/render/rendering.rb:62:in `block in _render_template'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/activesupport-3.0.3/lib/active_support/notifications.rb:52:in `block in instrument'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/activesupport-3.0.3/lib/active_support/notifications/instrumenter.rb:21:in `instrument'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/activesupport-3.0.3/lib/active_support/notifications.rb:52:in `instrument'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_view/render/rendering.rb:56:in `_render_template'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_view/render/rendering.rb:26:in `render'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/haml-3.0.25/lib/haml/helpers/action_view_mods.rb:13:in `render_with_haml'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/abstract_controller/rendering.rb:114:in `_render_template'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/abstract_controller/rendering.rb:108:in `render_to_body'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_controller/metal/renderers.rb:47:in `render_to_body'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_controller/metal/compatibility.rb:55:in `render_to_body'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/abstract_controller/rendering.rb:101:in `render_to_string'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/abstract_controller/rendering.rb:92:in `render'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_controller/metal/rendering.rb:17:in `render'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_controller/metal/instrumentation.rb:40:in `block (2 levels) in render'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/activesupport-3.0.3/lib/active_support/core_ext/benchmark.rb:5:in `block in ms'
+/home/bentley/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/1.9.1/benchmark.rb:309:in `realtime'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/activesupport-3.0.3/lib/active_support/core_ext/benchmark.rb:5:in `ms'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_controller/metal/instrumentation.rb:40:in `block in render'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_controller/metal/instrumentation.rb:78:in `cleanup_view_runtime'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/activerecord-3.0.3/lib/active_record/railties/controller_runtime.rb:15:in `cleanup_view_runtime'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_controller/metal/instrumentation.rb:39:in `render'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_controller/metal/implicit_render.rb:10:in `default_render'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_controller/metal/implicit_render.rb:5:in `send_action'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/abstract_controller/base.rb:151:in `process_action'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_controller/metal/rendering.rb:11:in `process_action'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/abstract_controller/callbacks.rb:18:in `block in process_action'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/activesupport-3.0.3/lib/active_support/callbacks.rb:440:in `_run__273203043776820019__process_action__4418530499644476797__callbacks'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/activesupport-3.0.3/lib/active_support/callbacks.rb:409:in `_run_process_action_callbacks'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/activesupport-3.0.3/lib/active_support/callbacks.rb:93:in `run_callbacks'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/abstract_controller/callbacks.rb:17:in `process_action'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_controller/metal/instrumentation.rb:30:in `block in process_action'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/activesupport-3.0.3/lib/active_support/notifications.rb:52:in `block in instrument'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/activesupport-3.0.3/lib/active_support/notifications/instrumenter.rb:21:in `instrument'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/activesupport-3.0.3/lib/active_support/notifications.rb:52:in `instrument'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_controller/metal/instrumentation.rb:29:in `process_action'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_controller/metal/rescue.rb:17:in `process_action'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/abstract_controller/base.rb:120:in `process'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/abstract_controller/rendering.rb:40:in `process'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_controller/metal.rb:138:in `dispatch'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_controller/metal/rack_delegation.rb:14:in `dispatch'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_controller/metal.rb:178:in `block in action'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/routing/route_set.rb:62:in `call'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/routing/route_set.rb:62:in `dispatch'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/routing/route_set.rb:27:in `call'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/rack-mount-0.6.13/lib/rack/mount/route_set.rb:148:in `block in call'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/rack-mount-0.6.13/lib/rack/mount/code_generation.rb:93:in `block in recognize'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/rack-mount-0.6.13/lib/rack/mount/code_generation.rb:68:in `optimized_each'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/rack-mount-0.6.13/lib/rack/mount/code_generation.rb:92:in `recognize'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/rack-mount-0.6.13/lib/rack/mount/route_set.rb:139:in `call'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/routing/route_set.rb:492:in `call'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/haml-3.0.25/lib/sass/plugin/rack.rb:41:in `call'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/best_standards_support.rb:17:in `call'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/head.rb:14:in `call'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/rack-1.2.1/lib/rack/methodoverride.rb:24:in `call'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/params_parser.rb:21:in `call'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/flash.rb:182:in `call'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/session/abstract_store.rb:149:in `call'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/cookies.rb:295:in `call'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/activerecord-3.0.3/lib/active_record/query_cache.rb:32:in `block in call'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/activerecord-3.0.3/lib/active_record/connection_adapters/abstract/query_cache.rb:28:in `cache'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/activerecord-3.0.3/lib/active_record/query_cache.rb:12:in `cache'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/activerecord-3.0.3/lib/active_record/query_cache.rb:31:in `call'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/activerecord-3.0.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:353:in `call'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/callbacks.rb:46:in `block in call'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/activesupport-3.0.3/lib/active_support/callbacks.rb:415:in `_run_call_callbacks'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/callbacks.rb:44:in `call'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/rack-1.2.1/lib/rack/sendfile.rb:107:in `call'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/remote_ip.rb:48:in `call'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/show_exceptions.rb:46:in `call'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/railties-3.0.3/lib/rails/rack/logger.rb:13:in `call'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/rack-1.2.1/lib/rack/runtime.rb:17:in `call'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/activesupport-3.0.3/lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/rack-1.2.1/lib/rack/lock.rb:11:in `block in call'
+<internal:prelude>:10:in `synchronize'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/rack-1.2.1/lib/rack/lock.rb:11:in `call'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/static.rb:30:in `call'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/railties-3.0.3/lib/rails/application.rb:168:in `call'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/railties-3.0.3/lib/rails/application.rb:77:in `method_missing'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/railties-3.0.3/lib/rails/rack/log_tailer.rb:14:in `call'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/rack-1.2.1/lib/rack/content_length.rb:13:in `call'
+/home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/rack-1.2.1/lib/rack/handler/webrick.rb:52:in `service'
+/home/bentley/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+/home/bentley/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+/home/bentley/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+Rendered welcome/index.html within layouts/application (14.8ms)
+Completed   in 21ms
+
+ActionView::Template::Error (/home/bentley/development/idbentley-site/app/views/layouts/application.html.haml:16: syntax error, unexpected ':', expecting ')'
+... nil, nil,  :name => "author" :content => "");_hamlout.push_...
+...                               ^):
+    13: 
+    14:   %title idbentley's Lumberyard
+    15:   %meta{ :name => "description", :content => ""}
+    16:   %meta{ :name => "author" :content => ""}
+    17: 
+    18:   <!--  Mobile viewport optimized: j.mp/bplateviewport -->
+    19:   %meta{ :name => "viewport", :content => "width=device-width, initial-scale => 1.0"}
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.5ms)
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (3.0ms)
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (9.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-30 20:18:10 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html within layouts/application (21.4ms)
+Completed   in 27ms
+
+ActionView::Template::Error (undefined local variable or method `equiv' for #<#<Class:0x00000003714f28>:0x00000003713330>):
+    9: 
+    10:   <!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame 
+    11:   Remove this if you use the .htaccess -->
+    12:   %meta{ :http-equiv => "X-UA-Compatible", :content => "IE=edge,chrome=1"}
+    13: 
+    14:   %title idbentley's Lumberyard
+    15:   %meta{ :name => "description", :content => ""}
+  app/views/layouts/application.html.haml:12:in `_app_views_layouts_application_html_haml__3346694756368829297_28870320_2916295878088009320'
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.3ms)
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.6ms)
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (8.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-30 20:19:56 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html within layouts/application (15.6ms)
+Completed 200 OK in 22ms (Views: 20.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/js/libs/modernizr-1.6.min.js" for 127.0.0.1 at 2011-01-30 20:19:56 -0500
+
+ActionController::RoutingError (No route matches "/js/libs/modernizr-1.6.min.js"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.2ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSans.woff" for 127.0.0.1 at 2011-01-30 20:19:56 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSans.woff"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.7ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSans.ttf" for 127.0.0.1 at 2011-01-30 20:19:56 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSans.ttf"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.4ms)
+
+
+Started GET "/js/libs/jquery-1.4.4.js" for 127.0.0.1 at 2011-01-30 20:19:56 -0500
+
+ActionController::RoutingError (No route matches "/js/libs/jquery-1.4.4.js"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (4.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-30 20:20:14 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html within layouts/application (15.0ms)
+Completed 200 OK in 21ms (Views: 19.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/js/libs/modernizr-1.6.min.js" for 127.0.0.1 at 2011-01-30 20:20:14 -0500
+
+ActionController::RoutingError (No route matches "/js/libs/modernizr-1.6.min.js"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.2ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSans.woff" for 127.0.0.1 at 2011-01-30 20:20:14 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSans.woff"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.2ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSans.ttf" for 127.0.0.1 at 2011-01-30 20:20:14 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSans.ttf"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.2ms)
+
+
+Started GET "/js/libs/jquery-1.4.4.js" for 127.0.0.1 at 2011-01-30 20:20:14 -0500
+
+ActionController::RoutingError (No route matches "/js/libs/jquery-1.4.4.js"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-30 20:20:23 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html within layouts/application (16.3ms)
+Completed 200 OK in 22ms (Views: 21.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/js/libs/modernizr-1.6.min.js" for 127.0.0.1 at 2011-01-30 20:20:23 -0500
+
+ActionController::RoutingError (No route matches "/js/libs/modernizr-1.6.min.js"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.3ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSans.woff" for 127.0.0.1 at 2011-01-30 20:20:23 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSans.woff"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.2ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSans.ttf" for 127.0.0.1 at 2011-01-30 20:20:23 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSans.ttf"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.5ms)
+
+
+Started GET "/js/libs/jquery-1.4.4.js" for 127.0.0.1 at 2011-01-30 20:20:23 -0500
+
+ActionController::RoutingError (No route matches "/js/libs/jquery-1.4.4.js"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-30 20:21:27 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html within layouts/application (13.9ms)
+Completed 200 OK in 20ms (Views: 18.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/js/libs/modernizr-1.6.min.js" for 127.0.0.1 at 2011-01-30 20:21:27 -0500
+
+ActionController::RoutingError (No route matches "/js/libs/modernizr-1.6.min.js"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.4ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSans.woff" for 127.0.0.1 at 2011-01-30 20:21:28 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSans.woff"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.2ms)
+
+
+Started GET "/js/libs/jquery-1.4.4.js" for 127.0.0.1 at 2011-01-30 20:21:28 -0500
+
+ActionController::RoutingError (No route matches "/js/libs/jquery-1.4.4.js"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.1ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSans.ttf" for 127.0.0.1 at 2011-01-30 20:21:28 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSans.ttf"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-30 20:22:12 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html within layouts/application (13.4ms)
+Completed 200 OK in 19ms (Views: 17.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/js/libs/modernizr-1.6.min.js" for 127.0.0.1 at 2011-01-30 20:22:12 -0500
+
+ActionController::RoutingError (No route matches "/js/libs/modernizr-1.6.min.js"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.2ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSans.woff" for 127.0.0.1 at 2011-01-30 20:22:12 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSans.woff"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.3ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSans.ttf" for 127.0.0.1 at 2011-01-30 20:22:12 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSans.ttf"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.2ms)
+
+
+Started GET "/js/libs/jquery-1.4.4.js" for 127.0.0.1 at 2011-01-30 20:22:12 -0500
+
+ActionController::RoutingError (No route matches "/js/libs/jquery-1.4.4.js"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-30 20:22:49 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html within layouts/application (15.7ms)
+Completed 200 OK in 22ms (Views: 20.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/js/libs/modernizr-1.6.min.js" for 127.0.0.1 at 2011-01-30 20:22:49 -0500
+
+ActionController::RoutingError (No route matches "/js/libs/modernizr-1.6.min.js"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.3ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSans.woff" for 127.0.0.1 at 2011-01-30 20:22:49 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSans.woff"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (3.6ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSans.ttf" for 127.0.0.1 at 2011-01-30 20:22:49 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSans.ttf"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.2ms)
+
+
+Started GET "/js/libs/jquery-1.4.4.js" for 127.0.0.1 at 2011-01-30 20:22:49 -0500
+
+ActionController::RoutingError (No route matches "/js/libs/jquery-1.4.4.js"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-30 20:23:04 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html within layouts/application (13.6ms)
+Completed 200 OK in 19ms (Views: 18.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/js/libs/modernizr-1.6.min.js" for 127.0.0.1 at 2011-01-30 20:23:04 -0500
+
+ActionController::RoutingError (No route matches "/js/libs/modernizr-1.6.min.js"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.2ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSans.woff" for 127.0.0.1 at 2011-01-30 20:23:05 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSans.woff"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.1ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSansBold.woff" for 127.0.0.1 at 2011-01-30 20:23:05 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSansBold.woff"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.1ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSans.ttf" for 127.0.0.1 at 2011-01-30 20:23:05 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSans.ttf"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.3ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSansBold.ttf" for 127.0.0.1 at 2011-01-30 20:23:05 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSansBold.ttf"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.3ms)
+
+
+Started GET "/js/libs/jquery-1.4.4.js" for 127.0.0.1 at 2011-01-30 20:23:05 -0500
+
+ActionController::RoutingError (No route matches "/js/libs/jquery-1.4.4.js"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-30 20:24:33 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html within layouts/application (60.8ms)
+Completed 200 OK in 67ms (Views: 65.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/js/libs/modernizr-1.6.min.js" for 127.0.0.1 at 2011-01-30 20:24:33 -0500
+
+ActionController::RoutingError (No route matches "/js/libs/modernizr-1.6.min.js"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.7ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSans.woff" for 127.0.0.1 at 2011-01-30 20:24:33 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSans.woff"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.3ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSansBold.woff" for 127.0.0.1 at 2011-01-30 20:24:33 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSansBold.woff"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.6ms)
+
+
+Started GET "/js/libs/jquery-1.4.4.js" for 127.0.0.1 at 2011-01-30 20:24:33 -0500
+
+ActionController::RoutingError (No route matches "/js/libs/jquery-1.4.4.js"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.4ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSans.ttf" for 127.0.0.1 at 2011-01-30 20:24:33 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSans.ttf"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.1ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSansBold.ttf" for 127.0.0.1 at 2011-01-30 20:24:33 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSansBold.ttf"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-30 20:27:07 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html within layouts/application (14.4ms)
+Completed 200 OK in 20ms (Views: 18.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/js/libs/modernizr-1.6.min.js" for 127.0.0.1 at 2011-01-30 20:27:07 -0500
+
+ActionController::RoutingError (No route matches "/js/libs/modernizr-1.6.min.js"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.2ms)
+
+
+Started GET "/js/libs/jquery-1.4.4.js" for 127.0.0.1 at 2011-01-30 20:27:08 -0500
+
+ActionController::RoutingError (No route matches "/js/libs/jquery-1.4.4.js"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-30 20:27:51 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html within layouts/application (14.1ms)
+Completed 200 OK in 20ms (Views: 18.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/js/libs/jquery-1.4.4.js" for 127.0.0.1 at 2011-01-30 20:27:52 -0500
+
+ActionController::RoutingError (No route matches "/js/libs/jquery-1.4.4.js"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-30 20:30:58 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html within layouts/application (15.0ms)
+Completed 200 OK in 20ms (Views: 19.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/js/libs/jquery-1.4.4.js" for 127.0.0.1 at 2011-01-30 20:30:58 -0500
+
+ActionController::RoutingError (No route matches "/js/libs/jquery-1.4.4.js"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-30 20:31:37 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html within layouts/application (2.2ms)
+Completed   in 8ms
+
+ActionView::Template::Error (Illegal nesting: nesting within plain text is illegal.):
+    12: <!--[if (gte IE 9)|!(IE)]><!--> 
+    13: %html.no-js
+    14: <!--<![endif]-->
+    15:   %head
+    16:     %meta{ :charset => "utf-8"}
+    17: 
+    18:     <!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame 
+  app/views/layouts/application.html.haml:15
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.3ms)
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.7ms)
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (8.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-30 20:31:59 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html within layouts/application (16.8ms)
+Completed 200 OK in 23ms (Views: 21.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/js/libs/jquery-1.4.4.js" for 127.0.0.1 at 2011-01-30 20:31:59 -0500
+
+ActionController::RoutingError (No route matches "/js/libs/jquery-1.4.4.js"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-30 20:36:21 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html within layouts/application (1.5ms)
+Completed   in 7ms
+
+ActionView::Template::Error (Illegal nesting: nesting within plain text is illegal.):
+    4: <!--[if IE 7 ]>    <html class="no-js ie7"> <![endif]-->
+    5: <!--[if IE 8 ]>    <html class="no-js ie8"> <![endif]-->
+    6: <!--[if (gte IE 9)|!(IE)]><!--> <html class="no-js"> <!--<![endif]-->
+    7:   %head
+    8:     %meta{ :charset => "utf-8"}
+    9: 
+    10:     <!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame 
+  app/views/layouts/application.html.haml:7
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.3ms)
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.7ms)
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (8.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-30 20:36:49 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html within layouts/application (13.5ms)
+Completed 200 OK in 19ms (Views: 18.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/js/libs/jquery-1.4.4.js" for 127.0.0.1 at 2011-01-30 20:36:50 -0500
+
+ActionController::RoutingError (No route matches "/js/libs/jquery-1.4.4.js"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-30 20:37:43 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html within layouts/application (13.5ms)
+Completed 200 OK in 19ms (Views: 17.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/js/libs/jquery-1.4.4.js" for 127.0.0.1 at 2011-01-30 20:37:43 -0500
+
+ActionController::RoutingError (No route matches "/js/libs/jquery-1.4.4.js"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-30 20:38:09 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html within layouts/application (13.7ms)
+Completed 200 OK in 19ms (Views: 18.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/js/libs/jquery-1.4.4.js" for 127.0.0.1 at 2011-01-30 20:38:11 -0500
+
+ActionController::RoutingError (No route matches "/js/libs/jquery-1.4.4.js"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-30 20:38:55 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html within layouts/application (13.3ms)
+Completed 200 OK in 19ms (Views: 18.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-30 20:38:58 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html within layouts/application (48.2ms)
+Completed 200 OK in 53ms (Views: 52.4ms | ActiveRecord: 0.0ms)
+DEPRECATION WARNING: RAILS_ENV is deprecated. Please use ::Rails.env. (called from block in <class:Plugin> at /home/bentley/development/idbentley-site/vendor/plugins/hassle/init.rb:1)

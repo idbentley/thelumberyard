@@ -1,0 +1,46 @@
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-30 21:02:57 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html within layouts/application (11.6ms)
+Completed 200 OK in 17ms (Views: 16.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/stylesheets/images/wallpaper.jpg" for 127.0.0.1 at 2011-01-30 21:02:58 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/images/wallpaper.jpg"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.2ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSans.woff" for 127.0.0.1 at 2011-01-30 21:02:58 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSans.woff"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.0ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSansBold.woff" for 127.0.0.1 at 2011-01-30 21:02:58 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSansBold.woff"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (5.7ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSans.ttf" for 127.0.0.1 at 2011-01-30 21:02:58 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSans.ttf"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.2ms)
+
+
+Started GET "/stylesheets/compiled/fonts/ptsans/PTSansBold.ttf" for 127.0.0.1 at 2011-01-30 21:02:58 -0500
+
+ActionController::RoutingError (No route matches "/stylesheets/compiled/fonts/ptsans/PTSansBold.ttf"):
+  
+
+Rendered /home/bentley/.rvm/gems/ruby-1.9.2-p136@rails/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.3ms)

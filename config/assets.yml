@@ -6,4 +6,8 @@ javascripts:
 
 stylesheets:
   common:
+<% if Rails.env == 'production' %>
+    - tmp/hassle/stylesheets/*.css
+<% else %>
     - public/stylesheets/compiled/*.css
+<% end %>
