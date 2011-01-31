@@ -6192,3 +6192,39 @@ Rendered welcome/index.html within layouts/application (48.2ms)
 Completed 200 OK in 53ms (Views: 52.4ms | ActiveRecord: 0.0ms)
 DEPRECATION WARNING: RAILS_ENV is deprecated. Please use ::Rails.env. (called from block in <class:Plugin> at /home/bentley/development/idbentley-site/vendor/plugins/hassle/init.rb:1)
 DEPRECATION WARNING: RAILS_ENV is deprecated. Please use ::Rails.env. (called from block in <class:Plugin> at /home/bentley/development/idbentley-site/vendor/plugins/hassle/init.rb:1)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-30 22:20:14 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html within layouts/application (15.0ms)
+Completed 200 OK in 20ms (Views: 19.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-30 22:20:38 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html within layouts/application (45.5ms)
+Completed 200 OK in 51ms (Views: 49.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-30 22:20:42 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html within layouts/application (13.6ms)
+Completed 200 OK in 19ms (Views: 17.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-30 22:22:54 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html within layouts/application (13.9ms)
+Completed 200 OK in 19ms (Views: 18.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-30 22:25:44 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html within layouts/application (45.7ms)
+Completed 200 OK in 51ms (Views: 50.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-30 22:26:02 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html within layouts/application (13.9ms)
+Completed 200 OK in 19ms (Views: 18.2ms | ActiveRecord: 0.0ms)
