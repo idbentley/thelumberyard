@@ -231,7 +231,8 @@ button {
    Author:
 */
 html {
-  height: 100%; }
+  height: 100%;
+  background: #444; }
 
 body {
   background: #525955;
