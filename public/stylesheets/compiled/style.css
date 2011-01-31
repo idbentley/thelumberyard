@@ -263,11 +263,13 @@ header {
     height: 40px;
     border-bottom: solid 1px #444444;
     background-color: #bfbdab;
-    -moz-box-shadow: inset 0px 4px 10px #444444;
+    text-shadow: #fff 2px 2px 1px;
+    cursor: pointer;
+    -moz-box-shadow: inset 0px -4px 10px #444444;
     /* FF3.5+ */
-    -webkit-box-shadow: inset 0px 4px 10px #444444;
+    -webkit-box-shadow: inset 0px -4px 10px #444444;
     /* Saf3.0+, Chrome */
-    box-shadow: inset 0px 4px 10px #444444; }
+    box-shadow: inset 0px -4px 10px #444444; }
   #side-bar li.selected {
     background-color: #708c8a; }
 

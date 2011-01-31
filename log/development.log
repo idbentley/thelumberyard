@@ -6669,3 +6669,75 @@ Started GET "/" for 127.0.0.1 at 2011-01-31 00:50:23 -0500
   Processing by WelcomeController#index as HTML
 Rendered welcome/index.html.haml within layouts/application (19.9ms)
 Completed 200 OK in 27ms (Views: 25.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-31 00:55:37 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html.haml within layouts/application (14.6ms)
+Completed 200 OK in 19ms (Views: 18.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-31 00:57:05 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html.haml within layouts/application (15.0ms)
+Completed 200 OK in 20ms (Views: 19.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-31 00:59:55 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html.haml within layouts/application (14.3ms)
+Completed 200 OK in 20ms (Views: 18.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-31 01:00:23 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html.haml within layouts/application (15.9ms)
+Completed 200 OK in 21ms (Views: 20.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-31 01:02:22 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html.haml within layouts/application (15.5ms)
+Completed 200 OK in 21ms (Views: 20.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-31 01:02:36 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html.haml within layouts/application (53.0ms)
+Completed 200 OK in 59ms (Views: 57.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-31 01:04:27 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html.haml within layouts/application (15.4ms)
+Completed 200 OK in 23ms (Views: 22.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-31 01:04:48 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html.haml within layouts/application (17.4ms)
+Completed 200 OK in 25ms (Views: 23.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-31 01:05:11 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html.haml within layouts/application (15.6ms)
+Completed 200 OK in 24ms (Views: 22.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-31 01:06:17 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html.haml within layouts/application (19.0ms)
+Completed 200 OK in 30ms (Views: 29.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-31 01:09:20 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html.haml within layouts/application (64.7ms)
+Completed 200 OK in 72ms (Views: 70.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-01-31 01:10:22 -0500
+  Processing by WelcomeController#index as HTML
+Rendered welcome/index.html.haml within layouts/application (16.2ms)
+Completed 200 OK in 22ms (Views: 20.9ms | ActiveRecord: 0.0ms)

@@ -197,10 +197,10 @@ header {
   }
 }
 
-@mixin drop_shadow($inset: null, $horizontal: 4px, $vertical: 4px, $blur: 4px, $color: #444){
-    -moz-box-shadow: $inset $horizontal $vertical $blur $color; /* FF3.5+ */
-    -webkit-box-shadow: $inset $horizontal $vertical $blur $color; /* Saf3.0+, Chrome */
-    box-shadow: $inset $horizontal $vertical $blur $color;
+@mixin inset_shadow($horizontal: 4px, $vertical: 4px, $blur: 4px, $color: #444){
+    -moz-box-shadow: inset $horizontal $vertical $blur $color; /* FF3.5+ */
+    -webkit-box-shadow: inset $horizontal $vertical $blur $color; /* Saf3.0+, Chrome */
+    box-shadow: inset $horizontal $vertical $blur $color;
 }
 
 #side-bar{
@@ -219,7 +219,9 @@ header {
     height: 40px;
     border-bottom: solid 1px $borders;
     background-color: $nav-color;
-    @include drop_shadow(inset, 0px, 4px, 10px);
+    text-shadow: #fff 2px 2px 1px;
+    cursor:pointer;
+    @include inset_shadow(0px, -4px, 10px);    
   }
   li.selected{
     background-color: $selected;
